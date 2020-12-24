@@ -1,0 +1,12 @@
+.form-container{
+    top: 30%;
+    left: 35%;
+    position: absolute;
+    text-align: center;
+}
+.form-custom{
+    display: grid;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #d2cdcd;
+}
